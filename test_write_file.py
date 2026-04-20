@@ -1,3 +1,4 @@
+import os
 from functions.write_file import write_file 
 
 test0 = write_file("calculator", "lorem.txt", "wait, this isn't lorem ipsum")
